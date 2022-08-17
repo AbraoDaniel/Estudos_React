@@ -1,3 +1,4 @@
 # React_studies
 
--Learning React
+-Learning ReactJS
+
